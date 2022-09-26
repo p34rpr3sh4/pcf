@@ -1,5 +1,7 @@
 # Pentest Collaboration Framework
 
+<b>This is a fork and code might be unstable/broken</b>
+
 <p align="center">
 <a href="https://elements.heroku.com/buttons/drakylar/pcf_fork_check_gitlab"><img src="https://img.shields.io/badge/supports-Heroku-darkviolet" /></a>
 <a href=""><img src="https://img.shields.io/badge/supports-Docker-blue" /></a>
